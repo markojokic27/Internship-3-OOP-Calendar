@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\net6.0\Internship-3-OOP-Calendar.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\net6.0\Internship-3-OOP-Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\net6.0\Internship-3-OOP-Calendar.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\net6.0\Internship-3-OOP-Calendar.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\net6.0\Internship-3-OOP-Calendar.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\bin\Debug\net6.0\Internship-3-OOP-Calendar.exe
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\bin\Debug\net6.0\Internship-3-OOP-Calendar.deps.json
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\bin\Debug\net6.0\Internship-3-OOP-Calendar.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\bin\Debug\net6.0\Internship-3-OOP-Calendar.dll
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\bin\Debug\net6.0\Internship-3-OOP-Calendar.pdb
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\net6.0\Internship-3-OOP-Calendar.dll
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\net6.0\refint\Internship-3-OOP-Calendar.dll
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\net6.0\Internship-3-OOP-Calendar.pdb
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\net6.0\Internship-3-OOP-Calendar.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\net6.0\ref\Internship-3-OOP-Calendar.dll
